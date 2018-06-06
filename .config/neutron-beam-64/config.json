@@ -1,0 +1,21 @@
+{
+  "port": 32789,
+  "address": "127.0.0.1",
+  "ssl_options": {
+    "keyfile": null,
+    "certfile": null
+  },
+  "user": "User164",
+  "workspaces": [
+    "ubuntmeow"
+  ],
+  "api_key": "Hn]G%nNAWtkh`S-8Zk7E<$~-xlh6^<=EnOXb<*)@2{CW!+E\\6%",
+  "domain": null,
+  "home": "/root",
+  "created": "2018-06-05T05:21:47.522072+00:00",
+  "terminal": {
+    "enabled": true,
+    "shell": "/bin/bash",
+    "timeout": 300
+  }
+}
